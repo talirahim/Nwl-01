@@ -1,0 +1,1 @@
+Projeto Ecoleta desenvolvido durante a semana Nwl - Next Level Week, que baseia-se em um site para cadastrar pontos de coleta de resíduos, bem como aplicativo para que o usuário verifique os pontos de coleta cadastrados.
